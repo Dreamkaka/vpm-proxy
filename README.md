@@ -61,3 +61,6 @@ Check out the [deployment documentation](https://nitro.unjs.io/deploy) for more 
 ## Contributors
 
 ![Contributors](https://contributors.liuli.lol/gizmo-ds/vpm-proxy/contributors.svg?align=left)
+
+
+trigger
